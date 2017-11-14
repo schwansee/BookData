@@ -21,4 +21,4 @@ Indices and tables
 
 Test Contents
 ==================
-* :ref:`help`
+* :ref:`search`
