@@ -22,3 +22,7 @@ Indices and tables
 Test Contents
 ==================
 * :ref:`search`
+
+Test Contents2
+==================
+* :ref:`search`
