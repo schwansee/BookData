@@ -27,6 +27,6 @@ Test Contents2
 ==================
 * :ref:`search`
 
-Test Contents fa
+测试
 ==================
 * :ref:`search`
